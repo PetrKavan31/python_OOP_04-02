@@ -13,6 +13,14 @@ class Student:
   def sayHi(self,pozdrav):
     print(f'{pozdrav} ja jsem {self.name}')
 
+
+  def checkAlcohol(self):
+    if self.age>18:
+      rozhodnut = 'pije'
+    else:
+      rozhodnut = 'pije'
+    print(rozhodnut)
+
 student = Student('Adam', 55)
 student2 = Student('Osel', 66)
 
@@ -20,6 +28,8 @@ student.showMag()
 
 student.sayHi('Ahoj')
 student2.sayHi('Dobry den')
+
+student.checkAlcohol()
 
 
 
