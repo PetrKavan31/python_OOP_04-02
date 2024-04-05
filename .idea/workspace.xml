@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7468fee9-e85c-45d0-9709-643eb8f1340b" name="Changes" comment="add file Classis" />
+    <list default="true" id="7468fee9-e85c-45d0-9709-643eb8f1340b" name="Changes" comment="add file Classes - homework, add cars">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +36,9 @@
         <option name="url" value="https://github.com/PetrKavan31/python_OOP_04-02.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -143,7 +149,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712334428679</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add file Classes - homework">
+      <option name="closed" value="true" />
+      <created>1712335043606</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712335043606</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add file Classes - homework, add cars">
+      <option name="closed" value="true" />
+      <created>1712335949898</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712335949898</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -155,6 +177,8 @@
     <MESSAGE value="task 1 for debugging" />
     <MESSAGE value="task 2 prepare for debugging" />
     <MESSAGE value="add file Classis" />
-    <option name="LAST_COMMIT_MESSAGE" value="add file Classis" />
+    <MESSAGE value="add file Classes - homework" />
+    <MESSAGE value="add file Classes - homework, add cars" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file Classes - homework, add cars" />
   </component>
 </project>

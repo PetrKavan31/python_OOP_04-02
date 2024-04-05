@@ -14,7 +14,12 @@ class Car:
         self.color = color
         self.price = price
 
-    def
+    def show_car(self):
+        print("My car:\n", self.model, self.year, self.manufacturer, self.engine, self.color, self.price)
+
 
 car1 = Car("Civic", 2004, "Honda", 1.6, "grey", 1500)
 car2 = Car("Fusion", 2010, "Ford", 1.4, "red", 5000)
+
+print(car1.show_car())
+print(car2.show_car())
