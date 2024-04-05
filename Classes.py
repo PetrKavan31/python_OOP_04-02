@@ -21,5 +21,5 @@ class Car:
 car1 = Car("Civic", 2004, "Honda", 1.6, "grey", 1500)
 car2 = Car("Fusion", 2010, "Ford", 1.4, "red", 5000)
 
-print(car1.show_car())
-print(car2.show_car())
+car1.show_car()
+car2.show_car()
