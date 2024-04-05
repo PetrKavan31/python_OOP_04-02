@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7468fee9-e85c-45d0-9709-643eb8f1340b" name="Changes" comment="task 1 for debugging">
+    <list default="true" id="7468fee9-e85c-45d0-9709-643eb8f1340b" name="Changes" comment="task 2 prepare for debugging">
+      <change afterPath="$PROJECT_DIR$/Classes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PetrKavan31"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e7fceb73-df31-48c7-8df2-54fbb82517eb" />
+        <option name="url" value="https://github.com/PetrKavan31/python_OOP_04-02.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -116,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712325801593</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="task 2 prepare for debugging">
+      <option name="closed" value="true" />
+      <created>1712327628214</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712327628214</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -126,17 +149,7 @@
     <MESSAGE value="dedicnost" />
     <MESSAGE value="new file - debud" />
     <MESSAGE value="task 1 for debugging" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 1 for debugging" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/debug_file.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="task 2 prepare for debugging" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 2 prepare for debugging" />
   </component>
 </project>
