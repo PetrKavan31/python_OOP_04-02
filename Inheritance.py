@@ -28,8 +28,10 @@ class Destroyer(Ship):
     def __init__(self, name, length, speed, spec):
         super().__init__(name, length, speed)
         self.spec = spec
+
     def show_msg(self):
         print(f"{super().show_msg()} and my special power is: {self.spec}!")
+
 
 class Cruiser(Ship):
     def __init__(self, name, length, speed, spec):
