@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7468fee9-e85c-45d0-9709-643eb8f1340b" name="Changes" comment="add methods">
+    <list default="true" id="7468fee9-e85c-45d0-9709-643eb8f1340b" name="Changes" comment="add type of car">
+      <change afterPath="$PROJECT_DIR$/Inheritance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/person.py" beforeDir="false" afterPath="$PROJECT_DIR$/person.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712393959990</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add type of car">
+      <option name="closed" value="true" />
+      <created>1712404185459</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1712404185459</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,6 +215,7 @@
     <MESSAGE value="homework 1" />
     <MESSAGE value="delete print at end of code" />
     <MESSAGE value="add methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="add methods" />
+    <MESSAGE value="add type of car" />
+    <option name="LAST_COMMIT_MESSAGE" value="add type of car" />
   </component>
 </project>
