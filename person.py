@@ -23,6 +23,6 @@ class Student(Person):
 student1 = Student('Adam', 'Vesely', 45, 'HW')
 print(student1.spec)
 print(student1.showMsg())
-print(clovek1.showMsg())
+# print(clovek1.showMsg())
 
 

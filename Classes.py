@@ -5,6 +5,7 @@
 # provide access to individual fields through class methods.
 
 class Car:
+    type = "Passenger car"
 
     def __init__(self, model, year_of_release, manufacturer, engine_capacity, color, price):
         self.model = model
@@ -32,3 +33,10 @@ print(car2.color)
 
 print(car1.show_owner("Petr"))
 print(car2.show_owner("Marketa"))
+
+car2.model = "Fiesta"
+print(car2.model)
+car2.show_car()
+
+print(car1.type)
+print(car2.type)
