@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7468fee9-e85c-45d0-9709-643eb8f1340b" name="Changes" comment="various adjustments">
+    <list default="true" id="7468fee9-e85c-45d0-9709-643eb8f1340b" name="Changes" comment="various adjustments...">
+      <change afterPath="$PROJECT_DIR$/oop_home.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +55,7 @@
     "Python.Inheritance.executor": "Run",
     "Python.Main.executor": "Run",
     "Python.debug_file.executor": "Run",
+    "Python.oop_home.executor": "Run",
     "Python.person.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -230,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712418939507</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="various adjustments...">
+      <option name="closed" value="true" />
+      <created>1712428857754</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1712428857754</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -251,6 +261,7 @@
     <MESSAGE value="add frigate, destroyer and cruise class" />
     <MESSAGE value="add methods" />
     <MESSAGE value="various adjustments" />
-    <option name="LAST_COMMIT_MESSAGE" value="various adjustments" />
+    <MESSAGE value="various adjustments..." />
+    <option name="LAST_COMMIT_MESSAGE" value="various adjustments..." />
   </component>
 </project>
